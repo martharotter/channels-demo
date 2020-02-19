@@ -15,7 +15,7 @@ Features
 To Run Prototype
 ------------------
 ::
-Run a redis instance in Docker: 
+Run a redis instance in Docker:: 
 
     $ docker run -p 6379:6379 -d redis:2.8
     
